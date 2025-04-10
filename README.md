@@ -1,7 +1,3 @@
-Here's a `README.md` for your Bash script that explains its purpose, usage, and how it works:
-
----
-
 # 🎨 Video Color Bar Generator
 
 This script processes a video file and generates a horizontal color bar image representing the dominant colors sampled from the video at 12-second intervals.
@@ -54,6 +50,3 @@ Temporary folders used during processing (`thumbnails/` and `temp_swatches/`) ar
 - If color extraction fails for a frame, a default gray color (`#808080`) is used.
 - The script assumes the input file exists and is readable. It will exit with an error if the file is not found or if the wrong number of arguments is provided.
 
----
-
-Let me know if you'd like this turned into a `man`-style help page too!
